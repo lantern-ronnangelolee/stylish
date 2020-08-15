@@ -1,0 +1,18 @@
+/* SCROLL */
+
+::-webkit-scrollbar-track {
+  background-color: var(--back-dark-accent2);
+}
+
+html[hide-scrollbar='true'] ::-webkit-scrollbar {
+  display:none
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+  background-color: var(--back-dark-accent2);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--back-dark-accent1);
+}

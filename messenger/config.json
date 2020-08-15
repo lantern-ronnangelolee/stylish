@@ -1,0 +1,14 @@
+[
+  {
+    "url": "messenger.com",
+    "type": "URLs on the domain"
+  },
+  {
+    "url": "https://www.facebook.com/messages",
+    "type": "URLs starting with"
+  },
+  {
+    "url": "https://web.facebook.com/messages",
+    "type": "URLs starting with"
+  }
+]

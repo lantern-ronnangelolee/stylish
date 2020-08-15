@@ -1,0 +1,46 @@
+/* BORDERS */
+
+._85nf {
+  border-radius: 8px;
+}
+
+._3058._15gf ._3zvs,
+._4tsk._52mr._1byr ._4tsl {
+  border-radius: 18px;
+}
+
+._6zkc ._7q1j div {
+  border: 3px solid !important;
+  border-color: var(--back-status-bar) !important;
+}
+
+._1ht1._1ht2 ._6zkc ._7q1j div {
+  border: 3px solid !important;
+  border-color: var(--back-status-bar) !important;
+}
+
+._3tkv ._7q1j div {
+  border: 6px solid !important;
+  border-color: var(--back-right-bar) !important;
+}
+
+._7301._hh7,
+._7301._hh7._hh7._6ybn {
+  border-color: transparent;
+}
+
+/* SHADOWS */
+
+._o46._3i_m ._3058._15gf ._2poz {
+  box-shadow: none;
+}
+
+._87v3,
+._2u_d._7i2j ._7iov,
+._4owc ._53ij,
+._29_7 ._3058._s1-._6e6n,
+._3erg ._3058._wu0,
+._52mr._4h13._3058 ._3058._15gf ._3zvs,
+._4tsk._52mr._1byr ._4tsl {
+  box-shadow: 0 4px 5px 0 rgba(0,0,0,0.14), 0 1px 10px 0 rgba(0,0,0,0.12), 0 2px 4px -1px rgba(0,0,0,0.3) !important;
+}

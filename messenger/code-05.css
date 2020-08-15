@@ -1,0 +1,146 @@
+/* DISCORD TEMPLATE */
+
+/* Convo */
+._4_j4 {
+  background-color: var(--back-chat-bar);
+}
+
+/* Right bar */
+._4_j5 {
+  background-color: var(--back-right-bar);
+}
+
+/* Chat input bar */
+._5irm._7mkm,
+._67tu,
+._4_j4 .chatAttachmentShelf {
+  background-color: var(--back-dark-accent3);
+  border: 0;
+}
+
+/* Status Bar */
+._1enh._7q1s, ._5iwm._6-_b ._58al, ._6-xk, ._6ynl {
+  background-color: var(--back-status-bar);
+  box-shadow: none;
+}
+
+/* Selected Convo start */
+._1ht1._1ht2 ._6zkc {
+  box-shadow: none !important;
+  border-radius: 0;
+  background-color: var(--back-status-bar);
+  box-shadow: -8px 0 0 0 rgba(255, 255, 255, 1) !important;
+  transition: 0.5s ease-out;
+}
+
+._6zkc {
+  border-radius: 0;
+  box-shadow: -8px 0 0 0 transparent !important;
+  transition: 0.5s ease-out;
+}
+
+._2il3._6zka {
+  padding: 0 2px;
+}
+
+._1ht1._1ht2 ._6zkc img,
+._1ht1._1ht2 ._6zkc ._1qt3._6-5k._5l-3 div {
+  border-radius: 35% !important;
+  transition: 0.5s;
+}
+
+._87v3 {
+  transition: 0.5s;
+}
+/* Selected Convo end */
+
+/* General convo */
+._6zkc {
+  padding: 0 12px;
+}
+
+/* Messages */
+._hh7._6ybn {
+  background-color: transparent;
+  box-shadow: none !important;
+  border-radius: 0 !important;
+  color: var(--fore-active);
+  font-size: 16px;
+  font-weight: 100 !important;
+  padding: 0px 12px;
+}
+
+/* Messages of other peeps */
+._29_7 ._hh7._6ybn {
+  border-radius: 0;
+  box-shadow: none !important;
+  border: 0;
+  border-left: 2px solid;
+  border-color: #42454a;
+}
+/* Messages of yourself START */
+._3i_m ._hh7._6ybn {
+  border: 0;
+  border-right: 2px solid;
+  border-color: var(--divider);
+  background-color: transparent !important;
+}
+
+._o46._3i_m ._3058 {
+  float: right;
+}
+/* Messages of yourself END */
+
+/* Inner chat box div */
+.__i_ {
+  padding-left: 12px;
+}
+/* Left files */
+._2a44 {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+/* EMOJI SELECTION */
+._4pi8 {
+  background-color: var(--back-right-bar);
+  border-radius: 6px;
+}
+._1uwv {
+  background-color: var(--back-dark-accent3);
+  border-radius: 0 0 6px 6px;
+}
+._1uwz:focus {
+  outline: none;
+  border: 0;
+  text-decoration: none;
+}
+._1uwz._1uwx {
+  background-color: var(--back-dark-accent1);
+  border-radius: 16px;
+}
+._1t2u, ._4_j5 {
+  border: 0;
+}
+._5iwm._6-_b {
+  padding: 12px 16px 12px;
+}
+._1li- {
+  border: 0;
+}
+._7kpk {
+  background-color: transparent;
+  border-radius: 0;
+  border-bottom: 0;
+}
+._67tu {
+  border: 0;
+  margin-bottom: -1px;
+}
+/* code */
+._3erg ._3058._wu0 {
+  background-color: #171717;
+  border: 0;
+  padding: 12px 20px;
+  font-family:'Roboto Mono', 'Inconsolata', 'Consolas', sans-serif !important;
+  font-size: 13px;
+}

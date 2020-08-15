@@ -1,0 +1,38 @@
+/* WHITE SPACES */
+
+/* LEFT SIDE BAR - UNREAD MESSAGES */
+@media (max-width: 900px) {
+  ._1ht3._1ht1._6zk9 {
+    background-color: rgba(0, 0, 0, 0.2);
+  }
+}
+
+/* left side bar - convo list - name whitespace */
+._1qt5 {
+  padding: 4px 0;
+}
+._1ht1 {
+  height: 80px;
+}
+/* left side bar - convo list - circle notification */
+._2j6._6zkg {
+  bottom: 32px;
+}
+/* message input */
+._1mj span {
+  line-height: 1.4rem;
+}
+/* file names */
+._2a44 {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+._7kpi {
+  padding-bottom: 12px;
+}
+
+/* PREVENTS EMOJI STATTER */
+html, body {
+  overflow: hidden;
+}

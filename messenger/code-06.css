@@ -1,0 +1,104 @@
+/* TEXTS */
+
+/* 16px */
+._3szq,
+._3oh-,
+._1qt5 ._1ht6 {
+  font-size: 16px;
+}
+
+/* 15px */
+._2a45 {
+  font-size: 15px;
+}
+
+/* 14px */
+._2v6o,
+._58al,
+._497p {
+  font-size: 14px;
+}
+
+/* Book */
+._z4_,
+._5iwm ._58al,
+.__6g ._6-xo,
+.__6g ._4ebx ._59s7,
+.__6g ._4eby label,
+.__6g ._4eby input,
+#facebook .__6g ._4eby ._58al,
+._hw3, ._2i-c ._54nf ._54nh {
+  font-family:'Whitney-Book', 'Roboto', 'Segoe UI Light', sans-serif;
+}
+/* Medium and Bold */
+._1ht3 ._1ht6,
+._1ht3 ._1htf,
+._1lj0._6ybm,
+._17w2._6ybr
+._3oh-,
+._58al {
+  font-family:'Whitney-SemiBold', 'Roboto', 'Segoe UI Semibold', sans-serif;
+  font-weight: 400;
+}
+/* Product Sans */
+.__6g ._6-xo {
+  font-family:'Product Sans';
+}
+._7301._hh7,
+._7301._hh7._hh7._6ybn {
+  color: var(--divider);
+  border-color: var(--divider-line);
+  border-radius: 8px;
+}
+div ._38a0,
+._6ct8._6y58 {
+  color: #ddd;
+}
+._7492 {
+  color: rgba(255, 255, 255, 0.5);
+}
+/* Inactive messages */
+._4ik4,
+._497p {
+  color: var(--divider);
+}
+/* BLOCKQUOTE */
+._94jx ._pye ._pyf,
+._1nc7 ._pye ._pyf,
+._hh7 ._pye ._pyf,
+._hh7:active ._pye ._pyf,
+._-5k ._hh7 ._pye ._pyf,
+._hh7 ._8720 ._8721,
+._hh7:active ._8720 ._8721,
+._-5k ._hh7 ._8720 ._8721,
+._1nc6 ._pye ._pyf,
+._nd_._hh7:active ._pye ._pyf,
+._nd_._-5k ._hh7 ._pye ._pyf,
+._nd_ ._hh7 ._pye ._pyf,
+._nd_ ._hh7:active ._8720 ._8721,
+._nd_._-5k ._hh7 ._8720 ._8721,
+._nd_ ._hh7 ._8720 ._8721 {
+  background-color: var(--divider-line);
+  border: 0;
+}
+
+/* GIFS */
+._1r_9 ._53ik ._53io {
+  background: none;
+}
+
+/* CODE */
+code {
+  font-family: 'Roboto Mono', 'Inconsolata', 'Consolas', monospace;
+  font-size: 13px;
+  font-weight: 400;
+  background-color: rgba(0, 0, 0, 0.1);
+  padding: 2px 6px;
+  border-radius: 8px;
+}
+
+/* REPLY AND FORWARD */
+._4k7a,
+._879k {
+  color: var(--divider);
+}

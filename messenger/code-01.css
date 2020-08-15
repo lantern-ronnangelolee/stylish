@@ -1,0 +1,127 @@
+/* FONTS */
+@font-face {
+  font-family:"Whitney-Book";
+  src: url("//db.onlinewebfonts.com/t/7234adf2685474c81e28858c37d40610.woff2") format("woff2");
+}
+@font-face {
+  font-family:"Whitney-Medium";
+  src: url("//db.onlinewebfonts.com/t/294afa63edf49dc293dd90373066b4d4.woff2") format("woff2");
+}
+@font-face {
+  font-family:"Whitney-SemiBold";
+  src: url("//db.onlinewebfonts.com/t/6897a1fa2639214696fc1d3809948c48.woff2") format("woff2");
+}
+
+/* COLOR PALETTE */
+:root {
+  --back-dark-accent1: #202225;
+  --back-dark-accent2: #2f3136;
+  --back-dark-accent3: #292b2f;
+
+  --back-status-bar: #202225;
+  --back-right-bar: #2f3136;
+  --back-chat-bar: #36393f;
+
+  --fore-active: #ffffff;
+  --fore-inactive: #8e927e;
+  --fore-icons: #b9bbbe;
+
+  --divider: #727679;
+  --divider-line: #42454a;
+  --green-accent1: #43b581;
+}
+
+body {
+  font-size: 16px;
+}
+
+._44ju ._44jz, ._8slc {
+  color: #cecece;
+}
+
+._hh7._6ybn {
+  padding: 12px 16px;
+}
+._7odb {
+  padding: 8px 0 8px 2px;
+}
+._aok._7i2m, ._7kpk ._1p1v {
+  line-height: 1.4rem;
+}
+/* REPLY AND FORWARD */
+._4k7a, ._879k {
+  color: rgba(206, 206, 206, 0.5);
+}
+._7jxv {
+  background-color: rgba(0, 0, 0, 0);
+}
+._2u_d._7i2j ._7iov path, .j7vl6m33 path {
+  fill: #cecece;
+}
+.j7vl6m33 {
+  color: white
+}
+._67tw, ._2f5n ._29ey {
+  color: rgba(255, 255, 255, 0.5)
+}
+._nd_ ._3058._s1-._6e6n, ._3erg ._4k7c, ._3erg ._2saq {
+  border-color: rgba(0, 0, 0, 0);
+}
+._7t1o {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+._3mtr ._4qcs, ._5iwm ._58al, ._2pgc, ._4lh7, ._53ij ._5f0v._3rh0 {
+  background-color: #1e1e1e;
+  color: #dddddd;
+  border: 0;
+}
+._1li_ a, ._3m31:nth-of-type(3n+1), ._3m31:nth-of-type(2n) {
+  border-color: transparent !important;
+}
+._1li_ a {
+  padding: 4px;
+}
+._4kf5 {
+  box-shadow: none;
+}
+._aou, ._1ht1._1ht2 ._6zkc {
+  box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3) !important;
+}
+._21wj {
+  vertical-align: middle;
+}
+.clearfix {
+  background: transparent;
+}
+._rwn ._rwo, ._5l37:hover ._rwo {
+  background-image: none;
+  background-color: transparent;
+  border-radius: 50%;
+  border: 1px solid #eee;
+}
+._80co {
+  border-radius: 50%;
+  height: 100px;
+  margin-bottom: -32px;
+}
+._4gd0 {
+  background: transparent;
+}
+._7mkk {
+  padding: 12px 0;
+}
+._7mkl {
+  padding-left: 20px;
+}
+._7mkh {
+  padding: 0 0 18px 4px;
+}
+._7odb {
+  padding: 10px 0 10px 2px;
+}
+._5j_u {
+  padding: 0 4px 14px 2px;
+}
+._7v3t {
+  padding: 0 4px 11px 2px;
+}
