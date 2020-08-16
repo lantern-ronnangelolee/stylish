@@ -1,7 +1,7 @@
 /* WIDTHS AND HEIGHTS */
 
-._aou {
-  padding: 2px 4px;
+._aou span {
+  padding: 2px 2px;
 }
 
 ._4qoc,
@@ -19,12 +19,26 @@
   padding: 0;
 }
 
+._8sop {
+  padding: 2px;
+}
+
 ._4u-c .uiScrollableArea._5f0v .uiScrollableAreaContent .__i_._7i2k {
   padding-left: 12px;
 }
 
 ._8rnv {
-  bottom: -24px;
+  bottom: -28px;
+}
+
+._8rnv.preview {
+  display: inline-flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+
+._4eby ._3s-4 .img {
+  top: -4px;
 }
 
 ._205d ._3cnp {
@@ -47,5 +61,5 @@
 }
 
 ._5z-5 {
-  margin-bottom: 24px !important;
+  margin-bottom: 32px !important;
 }

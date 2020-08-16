@@ -4,6 +4,10 @@
   background-color: var(--back-status-bar);
 }
 
+._aou span {
+  background-color: transparent;
+}
+
 ._293j,
 ._3mtr ._4qcs,
 ._2pgc, ._4lh7,
@@ -27,7 +31,8 @@
 
 ._58-2.clearfix,
 ._4eb_ .clearfix,
-._53ij {
+._53ij,
+._3s-4 {
   background-color: var(--back-right-bar) !important;
 }
 

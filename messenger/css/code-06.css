@@ -75,7 +75,8 @@ div ._38a0,
 /* Inactive messages */
 ._4ik4,
 ._497p,
-._87b_ {
+._87b_,
+._koh li {
   color: var(--divider);
 }
 /* BLOCKQUOTE */
@@ -128,6 +129,10 @@ code {
 ._4kf6,
 #cch_f370d64733cb748 ._fy2._fy2 {
   color: var(--fore-reaction);
+}
+
+._koh li:hover span {
+  color: var(--fore-active);
 }
 
 ._6ybz._7ipg {
