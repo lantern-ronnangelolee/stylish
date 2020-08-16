@@ -1,5 +1,18 @@
 /* TEXTS */
 
+._3dug .__6l ._4ik4._4ik5,
+._3dug .__6m ._4ik4._4ik5 {
+  padding-bottom: 8px;
+}
+
+._3dug .__6l ._4ik4._4ik5 {
+  height: auto !important;
+}
+
+._3dug .__6l ._4ik4._4ik5 {
+  line-height: 1.4rem !important;
+}
+
 /* 16px */
 ._3szq,
 ._3oh-,
@@ -15,7 +28,8 @@
 /* 14px */
 ._2v6o,
 ._58al,
-._497p {
+._497p,
+._3dug .__6l {
   font-size: 14px;
 }
 
@@ -28,7 +42,7 @@
 .__6g ._4eby input,
 #facebook .__6g ._4eby ._58al,
 ._hw3, ._2i-c ._54nf ._54nh {
-  font-family:'Whitney-Book', 'Roboto', 'Segoe UI Light', sans-serif;
+  font-family:'Whitney Book', 'Roboto', 'Segoe UI Light', sans-serif;
 }
 /* Medium and Bold */
 ._1ht3 ._1ht6,
@@ -36,13 +50,14 @@
 ._1lj0._6ybm,
 ._17w2._6ybr
 ._3oh-,
-._58al {
-  font-family:'Whitney-SemiBold', 'Roboto', 'Segoe UI Semibold', sans-serif;
+._58al,
+.__6g ._2y8_,
+._3eur._6ybk a {
+  font-family: 'Whitney', 'Roboto', 'Segoe UI Semibold', sans-serif;
   font-weight: 400;
 }
-/* Product Sans */
 .__6g ._6-xo {
-  font-family:'Product Sans';
+  font-family: 'Whitney', 'Roboto', 'Segoe UI Semibold', sans-serif;
 }
 ._7301._hh7,
 ._7301._hh7._hh7._6ybn {
@@ -59,7 +74,8 @@ div ._38a0,
 }
 /* Inactive messages */
 ._4ik4,
-._497p {
+._497p,
+._87b_ {
   color: var(--divider);
 }
 /* BLOCKQUOTE */
@@ -101,4 +117,14 @@ code {
 ._4k7a,
 ._879k {
   color: var(--divider);
+}
+
+._205d ._3cnp,
+._3quh,
+._6d5g {
+  color: var(--green-accent1);
+}
+
+._6ybz._7ipg {
+  background-color: var(--green-accent1);
 }

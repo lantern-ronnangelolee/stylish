@@ -1,0 +1,9 @@
+/* IMAGE PLACEHOLDERS */
+
+._hw2 ._53io {
+  background-image: none;
+  background-color: var(--back-dark-accent3);
+  height: 24px;
+  z-index: -1;
+  border-radius: 100%;
+}

@@ -1,0 +1,11 @@
+*:focus,
+*:focus-within,
+*:active {
+  outline: none !important;
+}
+
+a,
+a div,
+a span {
+  text-decoration: none !important;
+}

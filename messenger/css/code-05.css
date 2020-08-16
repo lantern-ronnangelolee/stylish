@@ -13,14 +13,18 @@
 /* Chat input bar */
 ._5irm._7mkm,
 ._67tu,
-._4_j4 .chatAttachmentShelf {
-  background-color: var(--back-dark-accent3);
+._4_j4 .chatAttachmentShelf,
+._33p7 ._3jv8 ._3jv9 ._58al {
+  background-color: var(--back-dark-accent3) !important;
   border: 0;
 }
 
 /* Status Bar */
-._1enh._7q1s, ._5iwm._6-_b ._58al, ._6-xk, ._6ynl {
-  background-color: var(--back-status-bar);
+._1enh._7q1s,
+._5iwm._6-_b ._58al,
+._6-xk, ._6ynl
+._5iwm ._58ak ._58al {
+  background-color: var(--back-status-bar) !important;
   box-shadow: none;
 }
 
@@ -30,27 +34,49 @@
   border-radius: 0;
   background-color: var(--back-status-bar);
   box-shadow: -8px 0 0 0 rgba(255, 255, 255, 1) !important;
-  transition: 0.5s ease-out;
-}
-
-._6zkc {
-  border-radius: 0;
-  box-shadow: -8px 0 0 0 transparent !important;
-  transition: 0.5s ease-out;
+  transition: 0.3s ease-out;
 }
 
 ._2il3._6zka {
   padding: 0 2px;
 }
 
+._1ht5._2il3._6zka._5l-3._3itx ._7q1j div,
+._1ht5._2il3._6zka._5l-3._3itx ._1qt3 > div,
+._1ht5._2il3._6zka._5l-3._3itx ._7q1j img,
+._1ht5._2il3._6zka._5l-3._3itx ._1qt3 > div {
+   transition: 0.3s ease-out !important;
+   border-radius: 50% !important;
+}
+
 ._1ht1._1ht2 ._6zkc img,
-._1ht1._1ht2 ._6zkc ._1qt3._6-5k._5l-3 div {
-  border-radius: 35% !important;
-  transition: 0.5s;
+._1ht1._1ht2 ._6zkc ._1qt3._6-5k._5l-3 div,
+._1ht5._2il3._6zka._5l-3._3itx:hover ._87v3, 
+._1ht5._2il3._6zka._5l-3._3itx:hover ._1qt3 > div,
+._1ht5._2il3._6zka._5l-3._3itx:hover ._7q1j > div,
+._1ht5._2il3._6zka._5l-3._3itx:hover ._7q1j img {
+  border-radius: 30% !important;
+  transition: 0.3s ease-out;
+}
+
+._1ht5._2il3._6zka._5l-3._3itx:hover ._6zkc {
+   box-shadow: -32px 0 0 -24px rgba(255, 255, 255, 1) !important;
+  	transition: 0.3s ease-out;
+}
+
+._1ht5._2il3._6zka._5l-3._3itx ._6zkc {
+   box-shadow: -32px 0 0 -32px rgba(255, 255, 255, 1) !important;
+   transition: 0.3s ease-out;
+}
+
+._1ht2 ._1ht5._2il3._6zka._5l-3._3itx ._6zkc {
+  border-radius: 0;
+  box-shadow: -8px 0 0 0 rgba(255, 255, 255, 1) !important;
+  transition: 0.3s ease-out;
 }
 
 ._87v3 {
-  transition: 0.5s;
+  transition: 0.3s;
 }
 /* Selected Convo end */
 
@@ -61,7 +87,7 @@
 
 /* Messages */
 ._hh7._6ybn {
-  background-color: transparent;
+  background: none !important;
   box-shadow: none !important;
   border-radius: 0 !important;
   color: var(--fore-active);
@@ -138,7 +164,7 @@
 }
 /* code */
 ._3erg ._3058._wu0 {
-  background-color: #171717;
+  background-color: var(--back-right-bar);
   border: 0;
   padding: 12px 20px;
   font-family:'Roboto Mono', 'Inconsolata', 'Consolas', sans-serif !important;

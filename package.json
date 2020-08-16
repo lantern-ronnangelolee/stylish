@@ -1,0 +1,24 @@
+{
+  "name": "stylish",
+  "version": "1.0.0",
+  "description": "Stylesheets for Stylish Extension in Chrome browser",
+  "main": "index.js",
+  "scripts": {
+    "messenger": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lantern-ronnangelolee/stylish.git"
+  },
+  "author": "Ronn Angelo Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lantern-ronnangelolee/stylish/issues"
+  },
+  "homepage": "https://github.com/lantern-ronnangelolee/stylish#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1"
+  }
+}

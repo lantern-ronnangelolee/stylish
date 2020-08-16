@@ -1,0 +1,66 @@
+/* BACKGROUND */
+
+._673w._6ynl {
+  background-color: var(--back-status-bar);
+}
+
+._293j,
+._3mtr ._4qcs,
+._2pgc, ._4lh7,
+._53ij ._5f0v._3rh0,
+._85nf,
+._4eby,
+._5iwm ._58al,
+._52mr ._4br2,
+._4eb- .uiInputLabel.clearfix {
+  background-color: var(--back-right-bar) !important;
+  border-color: var(--back-right-bar);
+}
+
+._2-x5 .clearfix,
+._2y8_ .uiScrollableAreaBody,
+._3egt ._3058._hh7._s1-,
+.clearfix,
+._2-x5 {
+  background-color: var(--back-chat-bar) !important;
+}
+
+._58-2.clearfix,
+._4eb_ .clearfix,
+._53ij,
+._aou, ._4kf5 {
+  background-color: var(--back-right-bar) !important;
+}
+
+._7301._hh7,
+._7301._hh7._hh7._6ybn,
+._6ymu,
+._6-xp,
+._5l37 .clearfix {
+  background-color: transparent !important;
+}
+
+._33p7,
+._8rdt,
+._7t1o,
+._hw2 ._53ij {
+  background-color: var(--back-dark-accent3);
+}
+
+._2poz._ui9._576q svg > rect,
+.js_cq rect {
+  fill: var(--back-chat-bar) !important;
+  box-shadow: none;
+}
+
+rect._8rsr {
+  fill: var(--back-chat-bar)!important;
+}
+
+._6zv_._6zv_ {
+  background-color: var(--green-accent1);
+}
+
+._41jf {
+  border-color: var(--green-accent1);
+}
