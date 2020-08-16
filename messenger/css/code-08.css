@@ -27,8 +27,7 @@
 
 ._58-2.clearfix,
 ._4eb_ .clearfix,
-._53ij,
-._aou, ._4kf5 {
+._53ij {
   background-color: var(--back-right-bar) !important;
 }
 
@@ -47,6 +46,11 @@
 ._7t1o,
 ._hw2 ._53ij {
   background-color: var(--back-dark-accent3);
+}
+
+._aou,
+._4kf5 {
+  background-color: var(--back-reaction);
 }
 
 ._2poz._ui9._576q svg > rect,

@@ -1,5 +1,10 @@
 /* BORDERS */
 
+._aou,
+._4kf5 {
+  border-radius: 8px;
+}
+
 ._339m ._2zl5 {
   border: 0;
 }
@@ -41,9 +46,14 @@
  width: 100%;
 }
 
+._3cnp {
+  border-top: 1px solid rgba(125, 125, 125, 0.1);
+}
+
 /* SHADOWS */
 
-._o46._3i_m ._3058._15gf ._2poz {
+._o46._3i_m ._3058._15gf ._2poz,
+._aou {
  box-shadow: none;
 }
 

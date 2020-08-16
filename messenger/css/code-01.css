@@ -7,6 +7,8 @@
   --back-status-bar: #202225;
   --back-right-bar: #2f3136;
   --back-chat-bar: #36393f;
+   
+  --back-reaction: #48516e;
 
   --fore-active: #ffffff;
   --fore-inactive: #8e927e;
@@ -71,7 +73,7 @@ body {
 ._4kf5 {
   box-shadow: none;
 }
-._aou, ._1ht1._1ht2 ._6zkc {
+._1ht1._1ht2 ._6zkc {
   box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.14), 0 1px 10px 0 rgba(0, 0, 0, 0.12), 0 2px 4px -1px rgba(0, 0, 0, 0.3) !important;
 }
 ._21wj {
