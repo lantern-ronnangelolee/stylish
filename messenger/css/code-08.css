@@ -1,9 +1,16 @@
 /* BACKGROUND */
 
-._673w._6ynl {
+._673w._6ynl,
+._6-xk,
+._2y8y._6zw0 {
   background-color: var(--back-chat-bar);
   box-shadow: var(--elevation-low);
 }
+
+._2y8y._6zw0 ._58-2.clearfix {
+  background-color: var(--back-chat-bar) !important;
+}
+
 
 .sp_rl5arIkqEV0 {
   background-color: white;
@@ -22,8 +29,7 @@
 ._4eby,
 ._5iwm ._58al,
 ._52mr ._4br2,
-._4eb- .uiInputLabel.clearfix,
-._2y8y._6zw0 {
+._4eb- .uiInputLabel.clearfix {
   background-color: var(--back-right-bar) !important;
   border-color: var(--back-right-bar);
 }

@@ -13,8 +13,9 @@ body {
   padding-left: 40px;
 }
 
-._673w._6ynl {
-  border-radius: 16px 0 0 0;
+._673w._6ynl,
+._2y8y._6zw0 {
+  border-radius: 16px 0 0 0 !important;
 }
 
 ._1t2u._7sli {
