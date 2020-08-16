@@ -41,7 +41,11 @@
 .__6g ._4eby label,
 .__6g ._4eby input,
 #facebook .__6g ._4eby ._58al,
-._hw3, ._2i-c ._54nf ._54nh {
+._hw3, ._2i-c ._54nf ._54nh,
+.__6g ._2y8- ._58-3,
+.__6g ._2y8-,
+._8slc,
+.__6g ._14-7 ._58ah ._58al {
   font-family:'Whitney Book', 'Roboto', 'Segoe UI Light', sans-serif;
 }
 /* Medium and Bold */
@@ -116,7 +120,8 @@ code {
 
 /* REPLY AND FORWARD */
 ._4k7a,
-._879k {
+._879k,
+._8b0j {
   color: var(--divider);
 }
 
@@ -137,4 +142,14 @@ code {
 
 ._6ybz._7ipg {
   background-color: var(--green-accent1);
+}
+
+._23ct._6zv9 path {
+  fill: var(--fore-icons) !important;
+  transition: 0.2s ease-out;
+}
+
+._23ct._6zv9:hover path {
+  fill: var(--fore-hover) !important;
+  transition: 0.2s ease-out;
 }

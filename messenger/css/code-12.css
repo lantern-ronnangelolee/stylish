@@ -14,9 +14,18 @@
   border: 1px solid var(--backright-bar);
 }
 
+._8b0l {
+  height: unset;
+  width: unset;
+}
+
 /* PADDINGS */
 ._1wfr {
   padding: 0;
+}
+
+._8b0j {
+  padding: 16px 24px;
 }
 
 ._8sop {

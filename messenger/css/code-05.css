@@ -41,30 +41,30 @@
   padding: 0 2px;
 }
 
-._1ht5._2il3._6zka._5l-3._3itx ._7q1j div,
-._1ht5._2il3._6zka._5l-3._3itx ._1qt3 > div,
-._1ht5._2il3._6zka._5l-3._3itx ._7q1j img,
-._1ht5._2il3._6zka._5l-3._3itx ._1qt3 > div {
+._1ht5._2il3._6zka._5l-3 ._7q1j div,
+._1ht5._2il3._6zka._5l-3 ._1qt3 > div,
+._1ht5._2il3._6zka._5l-3 ._7q1j img,
+._1ht5._2il3._6zka._5l-3 ._1qt3 > div {
    transition: 0.3s ease-out !important;
    border-radius: 50% !important;
 }
 
 ._1ht1._1ht2 ._6zkc img,
 ._1ht1._1ht2 ._6zkc ._1qt3._6-5k._5l-3 div,
-._1ht5._2il3._6zka._5l-3._3itx:hover ._87v3, 
-._1ht5._2il3._6zka._5l-3._3itx:hover ._1qt3 > div,
-._1ht5._2il3._6zka._5l-3._3itx:hover ._7q1j > div,
-._1ht5._2il3._6zka._5l-3._3itx:hover ._7q1j img {
+._1ht5._2il3._6zka._5l-3:hover ._87v3, 
+._1ht5._2il3._6zka._5l-3:hover ._1qt3 > div,
+._1ht5._2il3._6zka._5l-3:hover ._7q1j > div,
+._1ht5._2il3._6zka._5l-3:hover ._7q1j img {
   border-radius: 30% !important;
   transition: 0.3s ease-out;
 }
 
-._1ht5._2il3._6zka._5l-3._3itx:hover ._6zkc {
+._1ht5._2il3._6zka._5l-3:hover ._6zkc {
    box-shadow: -32px 0 0 -24px rgba(255, 255, 255, 1) !important;
   	transition: 0.3s ease-out;
 }
 
-._1ht5._2il3._6zka._5l-3._3itx ._6zkc {
+._1ht5._2il3._6zka._5l-3 ._6zkc {
    box-shadow: -32px 0 0 -32px rgba(255, 255, 255, 1) !important;
    transition: 0.3s ease-out;
 }

@@ -1,0 +1,35 @@
+/* DISCORD */
+
+body {
+  border-top: 24px solid var(--back-status-bar);
+}
+
+._6-xk ._87v3.img {
+  display: block;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  background: url('https://scontent.fmnl17-1.fna.fbcdn.net/v/t39.8562-6/37789948_1959933824027454_666414594595487744_n.png?_nc_cat=1&_nc_sid=6825c5&_nc_ohc=XMDMObQ5sTYAX-JruJA&_nc_ht=scontent.fmnl17-1.fna&oh=6c195d4674badf39817c312515590420&oe=5F609833') no-repeat;
+  background-size: 40px;
+  padding-left: 40px;
+}
+
+._673w._6ynl {
+  border-radius: 16px 0 0 0;
+}
+
+._1t2u._7sli {
+  background-color: var(--back-status-bar);
+}
+
+._6-xo {
+  visibility: hidden;
+}
+
+._6-xo:after {
+  content: '';
+  visibility: visible;
+  font-family: 'Whitney', 'Roboto', 'Helvetica Neue', sans-serif;
+  display: block;
+  position: absolute;
+  top: 37px;
+}
