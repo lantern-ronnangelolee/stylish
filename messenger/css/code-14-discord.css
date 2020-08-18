@@ -9,8 +9,10 @@ body {
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   background: url('https://scontent.fmnl17-1.fna.fbcdn.net/v/t39.8562-6/37789948_1959933824027454_666414594595487744_n.png?_nc_cat=1&_nc_sid=6825c5&_nc_ohc=XMDMObQ5sTYAX-JruJA&_nc_ht=scontent.fmnl17-1.fna&oh=6c195d4674badf39817c312515590420&oe=5F609833') no-repeat;
-  background-size: 40px;
+  background-size: 30px;
+   background-position: center center;
   padding-left: 40px;
+  transition: 0.3s ease-out;
 }
 
 ._673w._6ynl,

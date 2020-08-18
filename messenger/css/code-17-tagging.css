@@ -1,0 +1,23 @@
+/* TAGGING */
+
+._13iv ._1k1p:hover div,
+._13iv ._1k1p:hover,
+._13iv ._1k1p div:hover {
+  background-color: var(--back-status-bar) !important;
+/*   transition: 0.1s ease-out; */
+}
+
+._13iv ._1k1p div ,
+._13iv,
+._13iv ._1k1p {
+  background-color: var(--back-right-bar) !important;
+/*   transition: 0.1s ease-out; */
+}
+
+._o46 ._ih-,
+._o46._3i_m ._ih- {
+  background-color: var(--back-right-bar);
+  color: var(--green-accent1) !important;
+  padding: 2px 4px;
+  border-radius: 12px;
+}

@@ -3,8 +3,12 @@
 /* LEFT SIDE BAR - UNREAD MESSAGES */
 @media (max-width: 900px) {
   ._1ht3._1ht1._6zk9 {
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.3);
   }
+}
+
+._1ht3._1ht1._6zk9 {
+  background-color: rgba(0, 0, 0, 0.1);
 }
 
 /* left side bar - convo list - name whitespace */

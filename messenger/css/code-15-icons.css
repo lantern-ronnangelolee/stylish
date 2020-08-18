@@ -1,0 +1,27 @@
+/* ICONS */
+
+._6ymu._7iq4 ._6a._6b a._p,
+._30yy._94py a,
+a._6-xp._6-xq {
+  background-color: rgba(255, 255, 255, 0.05) !important;
+  border-radius: 50%;
+  transition: 0.2s ease-out;
+}
+
+._6ymu._7iq4 ._6a._6b a._p path,
+._30yy._94py a path,
+a._6-xp._6-xq path,
+._3szo._6y4w path,
+._30yy._6-xf._6-xg path {
+  fill: var(--fore-icons);
+  transition: 0.2s ease-out;
+}
+
+._6ymu._7iq4 ._6a._6b a._p:hover path,
+._30yy._94py a:hover path,
+a._6-xp._6-xq:hover path,
+._3szo._6y4w:hover path
+._30yy._6-xf._6-xg:hover path {
+  fill: var(--fore-hover) !important;
+  transition: 0.2s ease-out;
+}

@@ -45,7 +45,14 @@
 .__6g ._2y8- ._58-3,
 .__6g ._2y8-,
 ._8slc,
-.__6g ._14-7 ._58ah ._58al {
+.__6g ._14-7 ._58ah ._58al,
+body,
+button,
+input,
+label,
+select,
+td,
+textarea {
   font-family:'Whitney Book', 'Roboto', 'Segoe UI Light', sans-serif;
 }
 /* Medium and Bold */
