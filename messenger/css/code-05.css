@@ -45,8 +45,8 @@
 ._1ht5._2il3._6zka._5l-3 ._1qt3 > div,
 ._1ht5._2il3._6zka._5l-3 ._7q1j img,
 ._1ht5._2il3._6zka._5l-3 ._1qt3 > div {
-   transition: 0.3s ease-out !important;
-   border-radius: 50% !important;
+  transition: 0.3s ease-out !important;
+  border-radius: 50% !important;
 }
 
 ._1ht1._1ht2 ._6zkc img,
@@ -60,13 +60,13 @@
 }
 
 ._1ht5._2il3._6zka._5l-3:hover ._6zkc {
-   box-shadow: -32px 0 0 -24px rgba(255, 255, 255, 1) !important;
-  	transition: 0.3s ease-out;
+  box-shadow: -32px 0 0 -24px rgba(255, 255, 255, 1) !important;
+  transition: 0.3s ease-out;
 }
 
 ._1ht5._2il3._6zka._5l-3 ._6zkc {
-   box-shadow: -32px 0 0 -32px rgba(255, 255, 255, 1) !important;
-   transition: 0.3s ease-out;
+  box-shadow: -32px 0 0 -32px rgba(255, 255, 255, 1) !important;
+  transition: 0.3s ease-out;
 }
 
 ._1ht2 ._1ht5._2il3._6zka._5l-3._3itx ._6zkc {
@@ -113,7 +113,8 @@
 }
 
 /* Emoji messages */
-._29_7 ._hh7._6ybn {
+._29_7 ._hh7._6ybn,
+._3i_m ._hh7._6ybn {
   padding: 0 12px;
 }
 
