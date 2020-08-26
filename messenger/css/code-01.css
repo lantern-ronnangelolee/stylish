@@ -13,12 +13,17 @@
 
   --fore-active: #ffffff;
   --fore-inactive: #8e927e;
+  --fore-inactive-2: rgba(255, 255, 255, 0.34);
   --fore-icons: #b9bbbe;
   --fore-hover: #dcddde;
 
   --divider: #727679;
+  --divider2: #b1b8bd;
   --divider-line: #42454a;
   --green-accent1: #43b581;
+  --green-accent2: #2f825c;
+   
+  --red-accent1: #ef5350;
    
   --elevation-low: 0 1px 0 rgba(4, 4, 5, 0.2), 0 1.5px 0 rgba(6, 6, 7, 0.05), 0 2px 0 rgba(4, 4, 5, 0.05);
 }

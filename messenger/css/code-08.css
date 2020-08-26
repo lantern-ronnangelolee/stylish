@@ -71,6 +71,14 @@
   background-color: var(--back-reaction);
 }
 
+._q4a {
+  margin-bottom: 40px !important;
+}
+
+._ylc {
+  margin-bottom: 28px;
+}
+
 ._2poz._ui9._576q svg > rect,
 .js_cq rect {
   fill: var(--back-chat-bar) !important;

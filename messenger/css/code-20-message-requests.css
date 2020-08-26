@@ -1,0 +1,26 @@
+/* MESSAGE REQUESTS */
+
+._1ht1 ._2ogs {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+._1ht1 ._2ogt {
+  color: var(--green-accent1);
+  font-size: 15px;
+  font-family: 'Whitney', 'Roboto', 'Helvetica Neue', sans-serif;
+}
+
+._7jot path {
+  fill: var(--divider2);
+}
+
+._2kt ._3xsd {
+  color: var(--divider2);
+}
+
+._3yvh._1d-z {
+  color: var(--divider);
+}

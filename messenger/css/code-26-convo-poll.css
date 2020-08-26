@@ -1,0 +1,72 @@
+/* POLL */
+
+._3b4t {
+  background-color: var(--back-right-bar);
+  padding: 16px 24px;
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+
+._3b4t ._3b4u {
+  color: var(--fore-active);
+}
+
+._3b4t ._3b4a {
+  margin: 8px 0 8px 0;
+}
+
+._3b4t ._3b4h {
+   margin: 4px 0 8px 0;
+}
+
+._3b4t ._3b4h span {
+  background-color: var(--green-accent1) !important;
+}
+
+._3b4t ._ric, ._4mnq {
+  border-color: var(--back-right-bar);
+}
+
+._3b4t ._4icb {
+  color: var(--green-accent1) !important;
+  padding: 4px 8px;
+}
+
+._5jn1 {
+  color: var(--fore-active);
+}
+
+._5jmp ._9fv input {
+  font-family: 'Whitney Book', 'Roboto', sans-serif;
+}
+
+._3b4h {
+  background-color: var(--back-dark-accent3);
+}
+
+._1mr_ {
+  color: var(--fore-active);
+}
+
+._1mq- {
+  color: var(--divider2);
+}
+
+._2m5p {
+  border-color: var(--divider);
+}
+
+._2m5r {
+  background-color: var(--green-accent1) !important;
+  border-color: var(--green-accent1) !important;
+}
+
+._8i7 path {
+  stroke: var(--green-accent1) !important;
+}
+
+._1ms1 {
+  font-family: 'Whitney', 'Helvetica Neue', sans-serif;
+  background-color: var(--green-accent1) !important;
+  padding: 8px;
+}

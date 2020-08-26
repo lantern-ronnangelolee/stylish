@@ -1,0 +1,49 @@
+/* MESSAGE INTERACTIONS */
+
+@media (max-width: 900px) {
+  ._nd_ ._hh7,
+  ._52mr._s1- {
+    max-width: calc(100% - 100px) !important;
+  }
+   
+  ._o46._3i_m._ylc ._3058.hh7 {
+    max-width: calc(100% - 100px);
+  }
+}
+
+._3058._15gf {
+/*   margin: 1px 0;
+  width: 70%; */
+}
+
+._o46._3i_m._ylc ._3058.hh7 {
+/*   max-width: calc(100% - 100px); */
+  max-width: 55%;
+}
+
+._41ud ._3058._15gf {
+  max-width: 55%;
+}
+
+._52mr ._3058._15gf {
+  max-width: 100%;
+}
+
+._3058 ._52mr {
+  max-width: 100%;
+}
+
+._4ksk ._4tsk {
+  width: calc(50% - 10px);
+}
+
+._o46._3i_m ._3058._15gf ._3zvs._2-x3,
+._3zvs._2-x3 {
+/*   width: 70%; */
+}
+
+/* ._3zvs._5z-5, */
+._o46._3i_m ._3058._15gf ._3zvs._2-x3,
+._3zvs._2-x3 {
+  max-width: calc(100% - 100px);
+}

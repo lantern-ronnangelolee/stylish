@@ -1,0 +1,6 @@
+/* 404 */
+
+html,
+html body > div {
+  background-color: var(--back-status-bar) !important;
+}

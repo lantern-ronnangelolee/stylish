@@ -21,3 +21,7 @@
   padding: 2px 4px;
   border-radius: 12px;
 }
+
+._fy2 {
+  color: var(--green-accent1);
+}

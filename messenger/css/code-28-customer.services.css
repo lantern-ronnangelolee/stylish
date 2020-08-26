@@ -1,0 +1,12 @@
+/* CUSTOMER SERVICES */
+
+._3cng ._3cnh,
+._3cng ._3cni {
+  color: var(--fore-active);
+  padding: 12px 0 4px;
+}
+
+._3cnl ._3cnh,
+._3cnl ._3cni {
+  color: var(--divider);
+}

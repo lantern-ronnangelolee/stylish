@@ -38,5 +38,5 @@
 
 /* PREVENTS EMOJI STATTER */
 html, body {
-  overflow: hidden;
+/*   overflow: hidden; */
 }

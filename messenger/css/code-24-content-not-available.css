@@ -1,0 +1,45 @@
+/* CONTENT NOT AVAILABLE */
+
+._1yv > div {
+  padding: 12px 16px;
+}
+
+._1yv div {
+  background-color: var(--back-chat-bar);
+  border: 0;
+  color: var(--fore-active);
+}
+
+._1yv ._4-i0,
+._1yv ._4-i0 .cleafix,
+._1yv ._4-i0 .cleafix ._ohe,
+._1yv ._4-i0 .cleafix ._ohe ._52c9 {
+  background-color: transparent !important;
+}
+
+._4-i0 ._52c9 {
+  color: var(--fore-active);
+  font-family: 'Whitney', 'Helvetica Neue', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+._1yv div {
+  border-radius: 8px;
+}
+
+._1yv a {
+  padding: 8px 20px;
+  background-color: transparent;
+  border: 0;
+  border-radius: 8px;
+  font-family: 'Whitney', 'Helvetica Neue', sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  color: var(--green-accent1);
+}
+
+._1yv a:hover {
+  transition: 0.2s ease-out;
+  background-color: rgba(0, 0, 0, 0.2);
+}

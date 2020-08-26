@@ -1,6 +1,7 @@
 /* ANCHORS */
 
 a,
-._hh7 a {
+._hh7 a,
+._nd_ ._hh7 a {
   color: var(--green-accent1);
 }

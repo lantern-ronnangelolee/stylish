@@ -1,0 +1,49 @@
+/* LOGIN ALTERNATIVE */
+
+._5hy4 {
+  color: var(--fore-active);
+  font-family: 'Whitney', 'Helvetica Neue', sans-serif;
+}
+
+._3403 {
+  color: var(--fore-active);
+  font-family: 'Whitney Book', 'Helvetica Neue', sans-serif;
+}
+
+._3v_p ._43di,
+._3v_o ._43di {
+  color: var(--fore-active);
+  background-color: var(--back-dark-accent3);
+  font-family: 'Whitney Book', 'Helvetica Neue', sans-serif;
+}
+
+._5hy2 ._43dh {
+  transition: 0.2s ease-out;
+  font-family: 'Whitney', 'Helvetica Neue', sans-serif;
+  color: var(--green-accent2);
+  background-color: transparent;
+  padding: 8px 16px;
+}
+
+._5hy2 ._43dh:hover {
+  transition: 0.2s ease-out;
+  color: var(--green-accent1);
+}
+
+._3v_p ._43dj,
+._3v_o ._43dj {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+._43dj .clearfix {
+  background: none !important;
+}
+
+._43dj .clearfix label {
+  font-family: 'Whitney', 'Helvetica Neue', sans-serif;
+}
+
+._43dj .clearfix .uiInputLabelInput {
+  padding-top: 3px;
+}

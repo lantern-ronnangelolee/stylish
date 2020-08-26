@@ -1,0 +1,21 @@
+/* ACTIVE CONTACTS */
+
+.__6g ._6ckd {
+  font-family: 'Whitney Book', 'Roboto', 'Helvetica Neue', sans-serif;
+}
+
+.__6g ._6ckd ._6cke {
+  color: var(--fore-active);
+}
+
+.__6g ._6ckd ._6ckf {
+  color: var(--divider);
+}
+
+.__6g ._6ckd ._6ckg {
+  background-color: transparent;
+  color: var(--green-accent1);
+  font-family: 'Whitney', 'Roboto', 'Helvetica Neue', sans-serif;
+  font-size: 16px;
+  padding: 8px 16px;
+}

@@ -1,0 +1,49 @@
+/* NOT LOGGED IN ERROR */
+
+.pop_container_advanced label input {
+  text-decoration: none;
+  border: 0;
+  outline: 0;
+  padding: 8px 12px;
+  margin: 4px 8px;
+  font-size: 14px;
+  color: var(--divider2);
+  transition: 0.2s ease-out;
+  background-color: var(--back-right-bar);
+}
+
+.pop_container_advanced label input:hover {
+  transition: 0.2s ease-out;
+  background-color: var(--back-status-bar);
+  color: var(--fore-active);
+}
+
+.pop_container_advanced {
+  padding: 0;
+  background-color: transparent;
+}
+
+.pop_container_advanced .pop_content {
+  border-radius: 8px;
+  overflow: hidden;
+  border: none;
+}
+
+.pop_content h2.dialog_title {
+  border: none;
+}
+
+.pop_content h2 span {
+  background-color: var(--red-accent1);
+  padding: 8px 12px;
+}
+
+.pop_content .dialog_body {
+  padding: 12px 12px;
+  border: none;
+}
+
+.pop_content .dialog_content {
+  background-color: var(--back-chat-bar);
+  border: none;
+}
